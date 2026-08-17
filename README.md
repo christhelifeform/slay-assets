@@ -18,8 +18,12 @@ other Slay Global repo is private. Email needs a stable public origin for every 
   of anything internal.
 - **Never delete or rename a file that has shipped in an email.** A delivered email keeps pointing at
   that URL forever, and a 404 is a broken image in an archive nobody can fix.
-- Flatten transparency onto white. ⚠️ **A black logo on a transparent background disappears in dark
-  mode.**
+- ⭐ **TRANSPARENT CUTOUTS ARE THE BRAND LOOK** (Chris, 2026-08-16). Product shots keep their alpha.
+- ⛔ **Flatten ONLY when the artwork is near-black or near-white.** A solid-black logo on transparent
+  **disappears in dark mode**; a mid-tone silver printer reads fine on both white and dark. **The test
+  is the artwork's own value, not a blanket rule.**
+- ⚠️ **Never overwrite a file in place — add a new name.** `raw.githubusercontent.com` sits behind a
+  CDN cache, so an overwrite can keep serving the old bytes for a while with no way to tell.
 - Size for retina: export at 2x the display width.
 
 ## Contents
@@ -27,4 +31,4 @@ other Slay Global repo is private. Email needs a stable public origin for every 
 | File | Use |
 |---|---|
 | `hardwire/hardwire-masthead-600.png` | HARDWIRE masthead. 600x104, displays at 300px |
-| `hardwire/a1-mini-560.png` | Bambu Lab A1 mini, giveaway prize. 560px wide |
+| `hardwire/a1-mini-cutout-560.png` | Bambu Lab A1 mini, giveaway prize. 560px, **transparent cutout** |
