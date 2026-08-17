@@ -32,6 +32,7 @@ other Slay Global repo is private. Email needs a stable public origin for every 
 |---|---|
 | `mechanica/mechanica-masthead-700.png` | MECHANICA masthead, **centered** use. 700x120, displays at 350px |
 | `mechanica/mechanica-masthead-1200.png` | ⭐ MECHANICA masthead, **FULL-WIDTH** use. 1200x205, displays at 600px |
+| `mechanica/mechanica-square-512.png` | Square avatar for platform profiles (Substack etc). ⚠️ Wordmark centered — **a proper single-glyph mark is a design job, not a crop**: the extruded letters overlap, so no letter can be cut out cleanly |
 | `hardwire/a1-mini-cutout-560.png` | Bambu Lab A1 mini, giveaway prize. 560px, **transparent cutout** |
 
 ⚠️ **The `hardwire/` folder name is wrong and stays anyway.** The newsletter was renamed to MECHANICA
