@@ -30,5 +30,10 @@ other Slay Global repo is private. Email needs a stable public origin for every 
 
 | File | Use |
 |---|---|
-| `hardwire/hardwire-masthead-600.png` | HARDWIRE masthead. 600x104, displays at 300px |
+| `mechanica/mechanica-masthead-700.png` | ⭐ **MECHANICA masthead.** 700x120, displays at 350px |
 | `hardwire/a1-mini-cutout-560.png` | Bambu Lab A1 mini, giveaway prize. 560px, **transparent cutout** |
+
+⚠️ **The `hardwire/` folder name is wrong and stays anyway.** The newsletter was renamed to MECHANICA
+before HARDWIRE ever shipped, but **the A1 mini URL is baked into a queued send.** Renaming it would
+show a broken image to 406 people — **which is the rule two lines above, applied to ourselves.** Move
+it after that send lands, never before.
